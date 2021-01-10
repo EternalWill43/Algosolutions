@@ -10,5 +10,6 @@ Varying solutions for different algo sites:
 
 ### Hackerrank
 Problem | Solved
+--------|--------
 Solve me first  | -[x]
 Simple Array Sum | -[ ]
