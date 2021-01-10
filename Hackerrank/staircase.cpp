@@ -1,3 +1,4 @@
+//		https://www.hackerrank.com/challenges/staircase/problem
 void staircase(int n) {
     int iter = 1;
     while (n) {

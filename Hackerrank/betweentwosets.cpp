@@ -1,3 +1,4 @@
+//		https://www.hackerrank.com/challenges/between-two-sets/problem
 int getTotalX(vector<int> a, vector<int> b) {
     int c = 0;
     for (int i = a.back(); i <= b.front(); i+=a.back()) {

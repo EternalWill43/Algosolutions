@@ -1,3 +1,4 @@
+//		https://www.hackerrank.com/challenges/time-conversion/problem
 string timeConversion(string s) {
     int h, m, se;
     char t;

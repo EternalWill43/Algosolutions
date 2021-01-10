@@ -1,3 +1,4 @@
+//		https://www.hackerrank.com/challenges/the-birthday-bar/problem
 int birthday(vector<int> s, int d, int m) {
     int c = 0;
     for (int i = 0; i <= s.size() - m; i++) {
