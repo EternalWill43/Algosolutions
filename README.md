@@ -6,6 +6,9 @@ Varying solutions for different algo sites:
 * [Codeforces](codeforces.com) <sup>[[jump]](#codeforces)</sup>
 * [Leetcode](leetcode.com) <sup>[[jump]](#leetcode)</sup>
 
+###### Notes:
+* The links to the problems will be commented at the top of each solution
+
 ***
 
 ### Hackerrank
