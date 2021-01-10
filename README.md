@@ -2,9 +2,9 @@
 Varying solutions for different algo sites:
 
 #### Current sites being explored:
-* [Hackerrank](hackerrank.com) <sup>[[jump]](#hackerrank)</sup>
-* [Codeforces](codeforces.com) <sup>[[jump]](#codeforces)</sup>
-* [Leetcode](leetcode.com) <sup>[[jump]](#leetcode)</sup>
+* [Hackerrank](https://www.hackerrank.com/) <sup>[[jump]](#hackerrank)</sup>
+* [Codeforces](https://codeforces.com) <sup>[[jump]](#codeforces)</sup>
+* [Leetcode](https://leetcode.com) <sup>[[jump]](#leetcode)</sup>
 
 ###### Notes:
 * The links to the problems will be commented at the top of each solution
