@@ -11,7 +11,7 @@ Varying solutions for different algo sites:
 ### Hackerrank
 Problem | Solved
 --------|--------
-Solve me first  | <ul><li>- [x] Solved</li></ul>
+[Solve me first](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/solvemefirst.cpp)  | <ul><li>- [x] Solved</li></ul>
 Simple Array Sum | <ul><li>- [x] Solved</li></ul>
 Compare the Triplets | <ul><li>- [x] Solved</li></ul>
 A Very Big Sum | <ul><li>- [x] Solved</li></ul>
