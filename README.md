@@ -12,21 +12,21 @@ Varying solutions for different algo sites:
 Problem | Solved
 --------|--------
 [Solve me first](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/solvemefirst.cpp)  | <ul><li>- [x] Solved</li></ul>
-Simple Array Sum | <ul><li>- [x] Solved</li></ul>
-Compare the Triplets | <ul><li>- [x] Solved</li></ul>
-A Very Big Sum | <ul><li>- [x] Solved</li></ul>
-Diagonal Difference | <ul><li>- [x] Solved</li></ul>
-Plus Minus | <ul><li>- [x] Solved</li></ul>
-Staircase | <ul><li>- [x] Solved</li></ul>
-Mini-max Sum | <ul><li>- [x] Solved</li></ul>
-Birthday Cake Candles | <ul><li>- [x] Solved</li></ul>
-Time Conversion | <ul><li>- [x] Solved</li></ul>
-Grading Students | <ul><li>- [x] Solved</li></ul>
-Apples and Oranges | <ul><li>- [x] Solved</li></ul>
-Kangaroo | <ul><li>- [x] Solved</li></ul>
-Between Two Sets | <ul><li>- [x] Solved</li></ul>
-Breaking Records | <ul><li>- [x] Solved</li></ul>
-Sub-Array Division | <ul><li>- [x] Solved</li></ul>
+[Simple Array Sum](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/simplearraysum.cpp) | <ul><li>- [x] Solved</li></ul>
+[Compare the Triplets](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/comparethetriplets.cpp) | <ul><li>- [x] Solved</li></ul>
+[A Very Big Sum](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/averybigsum.cpp) | <ul><li>- [x] Solved</li></ul>
+[Diagonal Difference](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/diagonaldifference.cpp) | <ul><li>- [x] Solved</li></ul>
+[Plus Minus](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/plusminus.cpp) | <ul><li>- [x] Solved</li></ul>
+[Staircase](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/staircase.cpp) | <ul><li>- [x] Solved</li></ul>
+[Mini-max Sum](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/minimaxsum.cpp) | <ul><li>- [x] Solved</li></ul>
+[Birthday Cake Candles](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/birthdaycakecandles.cpp) | <ul><li>- [x] Solved</li></ul>
+[Time Conversion](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/timeconversion.cpp) | <ul><li>- [x] Solved</li></ul>
+[Grading Students](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/gradingstudents.cpp) | <ul><li>- [x] Solved</li></ul>
+[Apples and Oranges](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/applesandoranges.cpp) | <ul><li>- [x] Solved</li></ul>
+[Kangaroo](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/kangaroo.cpp) | <ul><li>- [x] Solved</li></ul>
+[Between Two Sets](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/betweentwosets.cpp) | <ul><li>- [x] Solved</li></ul>
+[Breaking Records](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/breakingrecords.cpp) | <ul><li>- [x] Solved</li></ul>
+[Sub-Array Division](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/subarraydivision.cpp) | <ul><li>- [x] Solved</li></ul>
 
 ## Codeforces
 
