@@ -2,13 +2,13 @@
 Varying solutions for different algo sites:
 
 #### Current sites being explored:
-* [Hackerrank](hackerrank.com)
+* [Hackerrank](hackerrank.com)<sup><a href="#hrank">jump</a></sup>
 * [Codeforces](codeforces.com)
 * [Leetcode](leetcode.com)
 
 ***
 
-### Hackerrank
+### Hackerrank ### {#hrank}
 Problem | Solved
 --------|--------
 Solve me first  | <ul><li>- [x] Solved</li></ul>
