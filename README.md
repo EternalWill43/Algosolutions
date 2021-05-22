@@ -30,7 +30,7 @@ Problem | Solved
 [Between Two Sets](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/betweentwosets.cpp) | <ul><li>- [x] Solved</li></ul>
 [Breaking Records](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/breakingrecords.cpp) | <ul><li>- [x] Solved</li></ul>
 [Sub-Array Division](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/subarraydivision.cpp) | <ul><li>- [x] Solved</li></ul>
-[Migratory-birds](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/migratorybirds.cpp) | <ul><li>- [x] Solved</li></ul>
+[Migratory birds](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/migratorybirds.cpp) | <ul><li>- [x] Solved</li></ul>
 [Sock merchant](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/sockmerchant.cpp) | <ul><li>- [x] Solved</li></ul>
 
 ## Codeforces
