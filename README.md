@@ -32,6 +32,7 @@ Problem | Solved
 [Sub-Array Division](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/subarraydivision.cpp) | <ul><li>- [x] Solved</li></ul>
 [Migratory birds](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/migratorybirds.cpp) | <ul><li>- [x] Solved</li></ul>
 [Sock merchant](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/sockmerchant.cpp) | <ul><li>- [x] Solved</li></ul>
+[Counting valleys](https://github.com/EternalWill43/Algosolutions/blob/main/Hackerrank/countingvalleys.cpp) | <ul><li>- [x] Solved</li></ul>
 
 ## Codeforces
 
